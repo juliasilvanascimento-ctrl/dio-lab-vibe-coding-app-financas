@@ -16,7 +16,7 @@ Em vez de planilhas complexas, múltiplos formulários ou aplicativos difíceis 
 
 **Link do projeto:**
 
-[https://seu-link-aqui.com](https://finai-coachfinanceiro.lovable.app)
+[(https://finai-coachfinanceiro.lovable.app)](https://finai-coachfinanceiro.lovable.app)](https://finai-coachfinanceiro.lovable.app)
 
 ---
 
